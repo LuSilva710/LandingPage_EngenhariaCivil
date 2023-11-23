@@ -18,8 +18,10 @@
 
 - **Navegação**: A navegação pela Landing Page é intuitiva, proporcionando uma experiência agradável aos visitantes.
 - **Feedbacks**: Esta seção exibe feedbacks de clientes em um carrossel, permitindo aos usuários lerem as experiências de outros clientes.
-- **Contato**: Os usuários podem solicitar orçamentos inserindo seu nome, telefone e uma mensagem com informações adicionais.
-
+- **Contato**: Os usuários podem entrar em contato com a empresa de duas maneiras:
+  - **WhatsApp**: Clicando no icone de contato para iniciar uma conversa pelo WhatsApp.
+  - **E-mail**: Clicando no icone de e-mail para enviar uma mensagem.
+- **Solicitar Orçamento**: Os usuários podem solicitar orçamentos inserindo seu nome, e-mail, celular e uma mensagem com informações adicionais.
 <br>
 
 <b>Como Utilizar</b>: Para utilizar a aplicação, você pode seguir os passos abaixo:
